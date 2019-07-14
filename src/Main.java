@@ -2,9 +2,32 @@ public class Main {
 
     public static void main(String[] args) {
 
+//        EVEN DIGIT SUM
+        System.out.println(EvenDigitSum.getEvenDigitSum(123456789));
+        System.out.println(EvenDigitSum.getEvenDigitSum(252));
+        System.out.println(EvenDigitSum.getEvenDigitSum(-22));
+
+//        FIRST AND LAST DIGIT SUM
+//        System.out.println(FirstLastDigitSum.sumFirstAndLastDigit(252));
+//        System.out.println(FirstLastDigitSum.sumFirstAndLastDigit(257));
+//        System.out.println(FirstLastDigitSum.sumFirstAndLastDigit(0));
+//        System.out.println(FirstLastDigitSum.sumFirstAndLastDigit(-10));
+//        System.out.println(FirstLastDigitSum.sumFirstAndLastDigit(5));
+
+//        PALINDROME
+
+//        boolean answer = Palindrome.isPalindrome(-1221);
+//        System.out.println(answer);
+//
+//        answer = Palindrome.isPalindrome(707);
+//        System.out.println(answer);
+//
+//        answer = Palindrome.isPalindrome(11212);
+//        System.out.println(answer);
+
 //        PARSING STRINGS
 
-        ParsingString.parseStr("2018.125");
+//        ParsingString.parseStr("2018.125");
 
 //        WHILE LOOPS
 
