@@ -2,10 +2,22 @@ public class Main {
 
     public static void main(String[] args) {
 
+//        USER INPUT
+        ReadingUserInput.playScanner();
+//        ScannerResearch.scannerRe();
+//        ReadingUserInputChallenge.ReadingInputChallenge();
+
+//        CAN PACK
+//        System.out.println(FlourPackProblem.canPack(1, 0, 4));
+//        System.out.println(FlourPackProblem.canPack(1, 0, 5));
+//        System.out.println(FlourPackProblem.canPack(0, 5, 4));
+//        System.out.println(FlourPackProblem.canPack(2, 2, 11));
+//        System.out.println(FlourPackProblem.canPack(0, 5, 6));
+
 //        EVEN DIGIT SUM
-        System.out.println(EvenDigitSum.getEvenDigitSum(123456789));
-        System.out.println(EvenDigitSum.getEvenDigitSum(252));
-        System.out.println(EvenDigitSum.getEvenDigitSum(-22));
+//        System.out.println(EvenDigitSum.getEvenDigitSum(123456789));
+//        System.out.println(EvenDigitSum.getEvenDigitSum(252));
+//        System.out.println(EvenDigitSum.getEvenDigitSum(-22));
 
 //        FIRST AND LAST DIGIT SUM
 //        System.out.println(FirstLastDigitSum.sumFirstAndLastDigit(252));
