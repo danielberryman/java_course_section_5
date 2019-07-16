@@ -3,7 +3,9 @@ public class Main {
     public static void main(String[] args) {
 
 //        USER INPUT
-        ReadingUserInput.playScanner();
+        InputCalc.inputThenPrintSumAndAverage();
+//        MinAndMaxInputChallenge.printMinAndMax();
+//        ReadingUserInput.playScanner();
 //        ScannerResearch.scannerRe();
 //        ReadingUserInputChallenge.ReadingInputChallenge();
 
